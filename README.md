@@ -4,3 +4,6 @@ binder testing
 
 https://mybinder.org/v2/gh/kfgarrity/binder_example/main?urlpath=pluto/open?url=https://raw.githubusercontent.com/kfgarrity/binder_example/main/x.jl
 
+maybe good
+
+https://mybinder.org/v2/gh/kfgarrity/binder_example/main?urlpath=pluto/open?path=/home/jovyan/notebooks/x.jl
